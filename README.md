@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/logo.png" alt="Phasor Labs" width="800"/>
+  <img src="./assets/logo.png" alt="Phasor Labs" width="800"/>
 </p>
 
 ---
