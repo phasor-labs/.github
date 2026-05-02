@@ -2,8 +2,6 @@
   <img src="./assets/phasor-logo.png" alt="Phasor Labs" width="800"/>
 </p>
 
----
-
 ## Phasor Labs
 
 Phasor Labs is an open-source engineering group building DSP, SDR & WebSDR systems, focused on high-performance signal processing and radio software.
@@ -15,8 +13,11 @@ Phasor Labs is an open-source engineering group building DSP, SDR & WebSDR syste
 - **NovaSDR**  
   Web-based SDR platform
 
-- **PhantomSDR**  
+- **PhantomSDR-Plus**  
   SDR infrastructure & experimentation
+
+- **sdr-list**  
+  Curated list of SDR, DSP & radio-related resources
 
 ---
 
