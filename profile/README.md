@@ -1,12 +1,43 @@
-## Hi there 👋
+<p align="center">
+  <img src="../assets/phasor-logo.png" alt="Phasor Labs" width="800"/>
+</p>
 
-<!--
+## Phasor Labs
 
-**Here are some ideas to get you started:**
+Phasor Labs is an open-source engineering group building DSP, SDR & WebSDR systems, focused on high-performance signal processing and radio software.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## Projects
+
+- **NovaSDR**  
+  Web-based SDR platform
+
+- **PhantomSDR-Plus**  
+  SDR infrastructure & experimentation
+
+- **sdr-list**  
+  Curated list of SDR, DSP & radio-related resources
+
+---
+
+## Focus
+
+- Digital Signal Processing (DSP)
+- Software Defined Radio (SDR)
+- WebSDR systems
+- High-performance backend & real-time pipelines
+
+---
+
+## Philosophy
+
+- Fully open-source  
+- No black boxes  
+- Performance-first engineering  
+
+---
+
+## Links
+
+- GitHub: https://github.com/phasor-labs
